@@ -1,2 +1,2 @@
 # cher-game
-game built in Unity for mine and my girlfriend's one year anniversary
+narrative driven point and click 2D adventure game built in Unity
